@@ -1,0 +1,10 @@
+.dashboard-main-content
+  .content
+  .table-card-header
+  .MuiInputBase-input.MuiOutlinedInput-input {
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+.dashboard-header .btn-profile .profile-id.MuiTypography-root {
+  text-transform: lowercase;
+}
